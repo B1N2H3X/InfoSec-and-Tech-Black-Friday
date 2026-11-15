@@ -85,7 +85,22 @@ sections:
         focus: Blue
         notes: EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. First 2 devices free.
         via: "@thistehneisen"
-
+      - vendor: PortDroid
+        url: https://portdroid.net/black-friday-2026/
+        deal: 50% off ProDroid Pro 
+        code: "CYBER_2026"
+        ends: 2026-12-04
+        focus: general
+        used: true
+        notes: Android network toolkit: port scans, LAN discovery, DNS and ping tools. Android only, no iOS version. 50% off lifetime license.
+      - vendor: Exploit Pack
+        url: https://www.exploitpack.com/
+        deal: ~20% off licenses and bundles.
+        code: 
+        ends: 
+        focus: Red
+        notes: Exploit development, C2 and kernel tooling for red teams. Prices in EUR.
+        
   - id: courses
     title: Courses & Training
     emoji: 🎓
