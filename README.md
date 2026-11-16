@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**46 active deals** of 46 listed
+**47 active deals** of 47 listed
 
-_Last updated: Nov 15, 2026 07:51 PST_
+_Last updated: Nov 15, 2026 16:23 PST_
 
 ## Table of contents
 
@@ -37,6 +37,7 @@ _Last updated: Nov 15, 2026 07:51 PST_
 |---|---|---|---|---|---|
 | [Exploit Pack](https://www.exploitpack.com/) | ~20% off licenses and bundles. | — | Nov 30 | Red | Exploit development, C2 and kernel tooling for red teams. Prices in EUR. |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
+| [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 20 – Dec 1 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Breach](https://breach.offseq.com/#pricing) | 50% off the first billing period of any paid plan | `BLACK` | Dec 2 | Blue | Leaked-credential monitoring for your domains across breach datasets, forums and Telegram. Free start. · via [@thistehneisen](https://github.com/thistehneisen) |
@@ -127,6 +128,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 
 ## Credits
 
+- [@ssecurityy](https://github.com/ssecurityy)
 - [@techkar1m](https://github.com/techkar1m)
 - [@thistehneisen](https://github.com/thistehneisen)
 - [@GHULI3V](https://github.com/GHULI3V)
